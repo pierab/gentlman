@@ -1,0 +1,63 @@
+body{
+	background-color: #D8D8D8;
+}
+header{
+font-family: 'Dosis';	
+padding: 3%;
+background-color:black;
+background-size:contain;
+box-shadow: 2px 2px 5px #999;
+}
+.head {
+	float: right;
+	font-size: 16px;
+	white-space: nowrap;
+	color: white;
+	text-decoration: none;
+}
+.head a{
+	color: white;
+	text-decoration: none !important;
+	margin-right: 4%;
+}
+.white{
+	background-color: white;
+	margin: auto;
+	text-align: center;
+}
+.the{
+font-family: 'Dosis'; 	
+font-size:30px;
+font-weight:200;
+margin-right:0.7%;
+color:white;
+margin-top:10%;
+}
+.gentle{
+font-family: 'Dosis';
+font-weight: 800;
+font-size:35px;
+color:white;
+margin-top:10%;
+}
+.img{
+	
+}
+.castle{
+	width: 100%
+}
+button{
+	background-color: gray;
+    border: none;
+    color: white;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 12px;
+    padding-top: 2%;
+    margin-top: 2%;
+}
+
+}
